@@ -4,6 +4,9 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
+/**
+ * Activity with words at center
+ */
 public class MainActivity extends AppCompatActivity {
 
     private TextView myTextView;
